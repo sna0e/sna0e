@@ -48,8 +48,8 @@
   ▸ 🏆 Gold Prize  
 
 2021.08.27   
-  Samsung SDS Mentoring - Metabus  
-  ▸ What is metabus?  
+  Samsung SDS Mentoring - Metaverse  
+  ▸ What is Metaverse?  
 
 
 
