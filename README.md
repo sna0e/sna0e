@@ -54,21 +54,21 @@
   ▸ 🏅 excellence award  
 
 2021.11.01 ~ 2021.11.30  
-  2021 대학(원)생 양자암호통신 아이디어 공모전  
+  2021 대학(원)생 양자암호통신 아이디어 공모전    
   ▸ <양자사공듀>  
   ▸ Quantum cryptographic communication ideas to protect link connections  
   ▸ 🏅 4th  
 
-2022.02 ~ 2022.03   
+2022.02 ~ 2022.03  
 클라우드 이노베이션 컨테서트 - 클라우드를 부탁해   
   ▸ <SOS> Student Office Service  
-  ▸ Make office service for students' club or study group by using Google Cloud, Google Apps Script   
-  ▸ Integrate applications of Google Workspace   
-  ▸ 🏅 4th   
+  ▸ Make office service for students' club or study group by using Google Cloud, Google Apps Script  
+  ▸ Integrate applications of Google Workspace  
+  ▸ 🏅 4th  
 
-2023.03 ~ 2023.06   
-정보처리학회 ASK2023   
-  ▸ <ChatGPT를 활용한 영상 요약 모델에 관한 연구>   
+2023.03 ~ 2023.06  
+정보처리학회 ASK2023  
+  ▸ <ChatGPT를 활용한 영상 요약 모델에 관한 연구>  
   ▸ Summarize video by utilizing ChatGPT   
   ▸ Front-end   
   ▸ 🏅 4th  
