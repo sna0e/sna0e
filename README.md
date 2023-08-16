@@ -1,7 +1,7 @@
 # 🙂 sna0e is "Nayoung Seong"
 ### Hi! I'm a growing prospective developer.
 
-🏫 Soongsil Univ. Software <br>
+🏫 Soongsil Univ. College of Software <br>
 💕 Drawing, Playing the piano
 
 # 
