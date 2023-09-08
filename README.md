@@ -13,10 +13,8 @@
 
 
 ## I want to learning ...
-* Front-end
-* tensorflow
-* TypeScript
-=> I'm going to learn this as soon as possible.  
+* Back-end
+* Computer Vision
 
 
 ## I have experienced ...
