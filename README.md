@@ -71,7 +71,6 @@
   ▸ <ChatGPT를 활용한 영상 요약 모델에 관한 연구>  
   ▸ Summarize video by utilizing ChatGPT   
   ▸ Front-end   
-  ▸ 🏅 4th  
 
 2023.07   
 2023 SW Pioneer Program at University of Southern California   
