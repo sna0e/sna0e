@@ -8,14 +8,15 @@
 
 
 ## I'm currently learning ...
+* Front-end
 * Data Analysis
 * AI
-* Front-end
 
 
-## I want to learning ...
+
+## I want to learn ...
 * Back-end
-* Computer Vision
+* AWS
 
 
 ## I have experienced ...
