@@ -9,7 +9,6 @@
 
 ## I'm currently learning ...
 * Front-end
-* Data Analysis
 * AI
 
 
